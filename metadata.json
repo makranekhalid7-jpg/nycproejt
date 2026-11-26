@@ -1,0 +1,6 @@
+{
+  "name": "NYC Model Club",
+  "description": "NYC Model Club — Open to All Models. Open-access fashion community and membership platform backed by New York City Model Management with online bookings and 20% + 20% agency commission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
